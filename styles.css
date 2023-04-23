@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 20px 0 10px;
+  }
+  
+  p {
+    margin: 0 0 20px;
+  }
+  
+  ul {
+    margin: 0 0 20px;
+    padding: 0 0 0 20px;
+  }
+  
+  li {
+    margin: 0 0 10px;
+  }
+  
+  /* Optional: add a background color and padding to the main content area */
+  .main-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
